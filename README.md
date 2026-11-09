@@ -1,5 +1,5 @@
 
-# 搭建方式1：Cloudflare-workers/pages代理脚本 V2026.9
+# 搭建方式1 
 
 ### 1、本项目仅支持本地化部署
 ### 2、本项目配置都为本地化编辑，不使用订阅器、订阅转换等第三方外链引用
@@ -14,8 +14,7 @@
 #### 6、支持单节点链接、聚合通用节点链接、聚合通用节点订阅、sing-box节点订阅、clash节点订阅
 -------------------------------------------------------------
 
-### 交流平台：[甬哥博客地址](https://ygkkk.blogspot.com)、[甬哥YouTube频道](https://www.youtube.com/@ygkkk)、[甬哥TG电报群组](https://t.me/+jZHc6-A-1QQ5ZGVl)、[甬哥TG电报频道](https://t.me/+DkC9ZZUgEFQzMTZl)
-
+ 
 --------------------------------
 
 ## 一：CF Vless节点可设置的变量内容 
@@ -235,10 +234,6 @@ ProxyIP是否有效影响着能否访问CF网站，比如CF官网、X推特、Ch
 
 -------------------------------------------------------------
 
-### 感谢支持！微信打赏甬哥侃侃侃ygkkk
-![41440820a366deeb8109db5610313a1](https://github.com/user-attachments/assets/7dbaa3b1-cce4-415a-b46e-049531cf4d0d)
-
+ 
 -------------------------------------------------------------
-
-### 代码来源：[ca110us](https://github.com/ca110us/epeius)、[emn178](https://github.com/emn178/js-sha256/blob/master/src/sha256.js)、[3Kmfi6HP](https://github.com/3Kmfi6HP/EDtunnel)、[badafans](https://github.com/badafans/Cloudflare-IP-SpeedTest)、[XIU2](https://github.com/XIU2/CloudflareSpeedTest)
-### 声明：所有代码来源于Github社区，并通过ChatGPT进行整合
+ 
